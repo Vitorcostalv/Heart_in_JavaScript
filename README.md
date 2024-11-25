@@ -1,1 +1,1 @@
-# Heart_in_python
+# Heart_in_JavaScript
